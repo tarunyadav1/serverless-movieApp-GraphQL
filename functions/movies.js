@@ -10,7 +10,7 @@ exports.handler = async () => {
         movies {
           id
           title
-          tagliner
+          tagline
           poster
         }
       }
